@@ -3,4 +3,5 @@
 def display_board(board)
   row = "   |   |   "
   sepeartor = "-----------"
+  puts "#{row}\n#{sepeartor}\n #{row}\n #{sepeartor}\n #{row}"
 end
